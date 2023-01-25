@@ -2,5 +2,12 @@
 
 Criação de uma Newsletter Landing Page utilizando HTML e CSS
 
-![image](https://user-images.githubusercontent.com/99370978/214666723-cceff46a-6352-4cdf-a78e-f9f18d3dc7b6.png)
+
+![marketing-de-email](https://user-images.githubusercontent.com/99370978/214669071-15a5cb0e-0a0f-4533-971a-3d78f77936eb.png)
+
+
+
+
+
+<a href="https://www.flaticon.com/br/icones-gratis/marketing" title="marketing ícones">Marketing ícones criados por juicy_fish - Flaticon</a>
 
