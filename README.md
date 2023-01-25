@@ -3,7 +3,8 @@
 Criação de uma Newsletter Landing Page utilizando HTML e CSS
 
 
-![marketing-de-email](https://user-images.githubusercontent.com/99370978/214669071-15a5cb0e-0a0f-4533-971a-3d78f77936eb.png)
+
+![marketing-de-email](https://user-images.githubusercontent.com/99370978/214669619-b9178c5a-41ee-4944-b71c-cf1f3f0a47d8.png)
 
 
 
