@@ -1,6 +1,9 @@
 # Marketing Criativo 
 
-Criação de uma Newsletter Landing Page utilizando HTML e CSS
+Criação de uma Newsletter Landing Page utilizando HTML e CSS.
+
+Link para o GitHub Pages:  https://carmencmattos.github.io/landing-page-marketing/
+
 
 
 
@@ -11,4 +14,5 @@ Criação de uma Newsletter Landing Page utilizando HTML e CSS
 
 
 <a href="https://www.flaticon.com/br/icones-gratis/marketing" title="marketing ícones">Marketing ícones criados por juicy_fish - Flaticon</a>
+
 
